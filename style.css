@@ -1,0 +1,21 @@
+html {
+	margin: 0;
+	padding: 0;
+
+	}
+	
+body { 
+	font: 75% sans serif;
+	line-height: 1.88889;
+	color:wheat; 
+	background: #202020;
+	margin: 300; 
+	padding: 0;
+	}
+	.IMG{
+		display: flex; 
+        JUSTIFY-CONTENT: SPACE-BETWEEN;
+	}
+
+
+
